@@ -1,0 +1,7 @@
+def deletrador():
+    nombre= raw_input("dime una palabra")
+    vocales=0
+    for cont in range (0,len(nombre),1):
+        if nombre[cont]=='a'or nombre[cont]=='e'or nombre[cont]=='i'or nombre[cont]=='o'or nombre[cont]=='u':
+            vocales= u
+deletrador()

@@ -1,0 +1,6 @@
+def ecuaciones():
+    a= input("dime el valor de a")
+    b= input("dime el valor de b")
+    c= input("dime el valor de c")
+    h=0
+    h=-y+

@@ -1,0 +1,8 @@
+def tablademultiplicar():
+    x=("dime que tabla quieres que dibuje")
+    print "TABLA DEL ",n
+    for cont in range(1,11,1):
+        print x, "*", cont,"=", x*cont
+        numero= input("dime el numero 4")
+tablademultiplicar()
+    
